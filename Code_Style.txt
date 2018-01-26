@@ -1,0 +1,18 @@
+PLEASE FOLLOW THE FOLLOWING CODE STYLE: 
+
+1. Camel Case for all functions and variables.
+    e.g. int functionThis (void objectOne, int usingThisValue ); 
+
+2. Constant varibles in all upper case. Exception for more than one word varible names
+    e.g. final int NUMBER = 20; 
+    e.g. final int NUMBER_TWO = 50; 
+
+3. Class start with capital letter
+    e.g. public Class Vector
+ 
+4. Spaces between in expressions
+    e.g. for ( int i = 0; i < 10000; i++ )
+    
+5. Tabs spaces are 4 spaces
+    e.g. Like this text file. 
+   
