@@ -16,3 +16,6 @@ PLEASE FOLLOW THE FOLLOWING CODE STYLE:
 5. Tabs spaces are 4 spaces
     e.g. Like this text file. 
    
+6. Target android API 17 for the project.
+    (Default is API 15)
+    
